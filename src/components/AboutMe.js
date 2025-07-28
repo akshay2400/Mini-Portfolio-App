@@ -20,10 +20,10 @@ function AboutMe() {
           {/* Intro and Description */}
           <div className="col-md-8">
             <h2 className="fw-bold mb-3">About Me</h2>
-            <p className="lead mb-2">Hi, I'm [Your Name]!</p>
+            <p className="lead mb-2">Hi, I'm Akshay A S!</p>
             <p>
               {/* Replace with your description */}
-              I am a passionate developer with experience in building modern web applications. I love learning new technologies and solving real-world problems.
+              Hi, I’m Akshay A S — a QA engineer at UST with hands-on experience in automation testing using Java, Selenium, and API tools like Postman and Rest Assured. I’m also a certified Google Cloud Associate Cloud Engineer, passionate about quality, cloud, and continuous learning.
             </p>
           </div>
         </div>
